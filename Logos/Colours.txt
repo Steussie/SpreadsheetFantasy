@@ -1,0 +1,67 @@
+Brent:
+FFC46D
+FFE6C1
+
+James:
+689DEA
+C2D7F6
+rgb(104, 157, 234)
+rgb(194, 215, 246)
+
+Mrs. Beast:
+FAACE9
+FDDFF7
+
+Bryce:
+FF9393
+FFC5C5
+
+Jon Mark:
+88E4E2
+D6F6F5
+rgb(136, 228, 226)
+rgb(214, 246, 245)
+
+Daniel:
+89FF94
+D5FFD9
+
+Beast:
+CFAAF4
+E6D3F9
+rgb(207, 170, 244)
+rgb(230, 211, 249)
+
+Lawrence:
+FFFFA3
+FFFFD9
+
+Seumas:
+B7D5F7
+E4EFFC
+
+Kevan:
+86EAC4
+D1F7E9
+
+Gold
+DDB851
+EBD699
+rgb(221, 184, 81)
+rgb(235, 214, 153)
+
+Silver
+D1D1D1
+F0F0F0
+rgb(209, 209, 209)
+rgb(240, 240, 240)
+
+Bronze
+D69656
+EED3B8
+rgb(214, 150, 86)
+rgb(238, 211, 184)
+
+MAIN COLOR
+2BD570
+92EAB6
